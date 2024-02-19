@@ -1,0 +1,3 @@
+[submodule "manus-quantum-metagloves"]
+	path = manus-quantum-metagloves
+	url = git@github.com:w4sk/manus-quantum-metagloves.git
